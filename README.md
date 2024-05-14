@@ -1,2 +1,2 @@
 # Runner_Game
-Original game created via tutorial by clear-code-projects . Recreated here for practice and personal improvement.
+Original game concept created by clear-code-projects.
