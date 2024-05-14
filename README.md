@@ -1,2 +1,2 @@
 # Runner_Game
-Original game concept created by clear-code-projects.
+Original game concept created by Clear-Code-Projects.
